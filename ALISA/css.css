@@ -1,0 +1,31 @@
+li{
+	color:green;	
+    text-decoration:line-through;
+
+}
+li:hover{
+	color: purple;
+    text-decoration:underline;
+
+}
+.lOl{
+    gray	
+}
+
+td{
+     border:3px solid gray;
+background-color: rgba(90, 0, 90, 1);
+}
+.br{
+ background-image: linear-gradient(to right top, purple,blue);
+ background-image: radial-gradient(at center, purple, blue);
+
+}
+table{
+  border:3px solid gray;  
+  border-collapse: collapse;
+
+
+
+}
+
